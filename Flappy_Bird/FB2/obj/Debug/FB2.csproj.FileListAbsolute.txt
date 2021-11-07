@@ -1,0 +1,9 @@
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\bin\Debug\FB2.exe.config
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\obj\Debug\FB2.csprojResolveAssemblyReference.cache
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\obj\Debug\FB2.Form1.resources
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\obj\Debug\FB2.Properties.Resources.resources
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\obj\Debug\FB2.csproj.GenerateResource.Cache
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\bin\Debug\FB2.exe
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\bin\Debug\FB2.pdb
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\obj\Debug\FB2.exe
+c:\users\frugo\documents\visual studio 2015\Projects\FB2\FB2\obj\Debug\FB2.pdb
