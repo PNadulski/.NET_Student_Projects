@@ -1,0 +1,46 @@
+D:\Workspace\C#\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe.config
+D:\Workspace\C#\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe
+D:\Workspace\C#\GraWZycie\GraWZycie\bin\Debug\GraWZycie.pdb
+D:\Workspace\C#\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csprojAssemblyReference.cache
+D:\Workspace\C#\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Form1.resources
+D:\Workspace\C#\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Properties.Resources.resources
+D:\Workspace\C#\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csproj.GenerateResource.cache
+D:\Workspace\C#\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\GraWZycie\GraWZycie\obj\Debug\GraWZycie.exe
+D:\Workspace\C#\GraWZycie\GraWZycie\obj\Debug\GraWZycie.pdb
+F:\Nowy folder\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe.config
+F:\Nowy folder\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe
+F:\Nowy folder\GraWZycie\GraWZycie\bin\Debug\GraWZycie.pdb
+F:\Nowy folder\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csprojResolveAssemblyReference.cache
+F:\Nowy folder\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Form1.resources
+F:\Nowy folder\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Properties.Resources.resources
+F:\Nowy folder\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csproj.GenerateResource.Cache
+F:\Nowy folder\GraWZycie\GraWZycie\obj\Debug\GraWZycie.exe
+F:\Nowy folder\GraWZycie\GraWZycie\obj\Debug\GraWZycie.pdb
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe.config
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.exe
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.pdb
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\bin\Debug\GraWZycie.pdb
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csprojResolveAssemblyReference.cache
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Form1.resources
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Properties.Resources.resources
+C:\Users\FruGo\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csproj.GenerateResource.Cache
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe.config
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.exe
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.pdb
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\bin\Debug\GraWZycie.pdb
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Form1.resources
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Properties.Resources.resources
+C:\Users\Przemek\Desktop\Gra f szycie\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csproj.GenerateResource.Cache
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe.config
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\bin\Debug\GraWZycie.exe
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\bin\Debug\GraWZycie.pdb
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csprojResolveAssemblyReference.cache
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Form1.resources
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\obj\Debug\GraWZycie.Properties.Resources.resources
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\obj\Debug\GraWZycie.csproj.GenerateResource.Cache
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\obj\Debug\GraWZycie.exe
+F:\Gra w szycie 2019.01.10\GraWZycie\GraWZycie\obj\Debug\GraWZycie.pdb
